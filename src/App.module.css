@@ -1,0 +1,20 @@
+body{
+    background-image: url(https://milkeninstitute.org/sites/default/files/Covid19%20Tracker-min.jpg);
+
+    
+
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+}
+.image{
+    width: 20px;
+    height: 20px;
+    display: flex;
+    float: left;
+}
